@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calc4sure/static/css/main.03206573.css",
+    "main.js": "/calc4sure/static/js/main.4ede1dac.js",
+    "index.html": "/calc4sure/index.html",
+    "main.03206573.css.map": "/calc4sure/static/css/main.03206573.css.map",
+    "main.4ede1dac.js.map": "/calc4sure/static/js/main.4ede1dac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03206573.css",
+    "static/js/main.4ede1dac.js"
+  ]
+}
